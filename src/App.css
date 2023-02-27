@@ -1,0 +1,16 @@
+.Card{
+  display: flex;
+  justify-content: center;
+   text-align: center;
+}
+.Card img {
+  margin-right: 20px;
+  display: inline-block;
+  }
+  .Ch{
+    text-align: center;
+    
+  }
+  .Ch img {
+    display: inline-block;
+  }
